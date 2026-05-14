@@ -1,1 +1,3 @@
-resume
+자격증 : 정보처리기사, sqld
+대외활동 : 카카오테크 부트캠프 수료중
+사용기술 : javascript, typescript, Vue.js, React, Go, Oracle
