@@ -1,3 +1,7 @@
+경력 : POS 시스템 개발 및 운영(1년)
+학력 : 명지대학교 컴퓨터공학과 졸업
+이름 : 노민솔
+나이 : 26살
 자격증 : 정보처리기사, sqld
 대외활동 : 카카오테크 부트캠프 수료중
 사용기술 : javascript, typescript, Vue.js, React, Go, Oracle
